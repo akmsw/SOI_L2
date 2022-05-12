@@ -1,4 +1,4 @@
-# Laboratorio Nº2 - Repaso del lenguaje C
+# C language review
 
 Para comenzar, se debe clonar el repositorio. Una vez hecho, podemos compilar todo el proyecto aprovechando el archivo `makefile`, con el comando:
 
